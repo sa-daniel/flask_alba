@@ -1,36 +1,7 @@
 .venv/
 
-
-######## Sugestões do ChatGPT ########
-
-# Ignorar o ambiente virtual
-venv/
-.env/
-
-# Ignorar os arquivos de cache do Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignorar o arquivo de configuração do ambiente de desenvolvimento
-*.env
-
-# Ignorar arquivos gerados pelo sistema operacional
-.DS_Store
-Thumbs.db
-
-# Ignorar arquivos de configuração de IDEs e editores de texto
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-*.iml
-
-# Ignorar arquivos de log
-*.log
-
-# Ignorar outros arquivos temporários
-*.tmp
-*.bak
-*.swp
